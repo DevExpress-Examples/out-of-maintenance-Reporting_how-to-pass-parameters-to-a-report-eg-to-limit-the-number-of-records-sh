@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/SilverlightApplication22/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication22/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/SilverlightApplication22/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication22/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/SilverlightApplication22/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication22/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to pass parameters to a report, e.g. to limit the number of records shown on each of its pages
